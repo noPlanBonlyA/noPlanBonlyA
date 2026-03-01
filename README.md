@@ -47,7 +47,7 @@ React, Next.js, Vue.js, Nuxt.js, Angular, Svelte, HTML, CSS, Tailwind CSS, Sass,
 React Native, Flutter, SwiftUI, Kotlin Multiplatform, Android SDK, iOS SDK  
 
 **Languages:**  
-TypeScript, JavaScript, Python, Java, Kotlin, C, C++, C#, Go, Rust, PHP, Ruby, Swift, Objective-C, Scala, Haskell, Dart, R, MATLAB, Bash, PowerShell, Groovy, Solidity  
+TypeScript, JavaScript, Python, Java, Kotlin, C, C++, C#, Go, Rust, PHP, Ruby, Swift, Objective-C, Scala, Haskell, MATLAB, Bash, PowerShell, Groovy, Solidity  
 
 **Databases:**  
 PostgreSQL, MySQL, MariaDB, SQLite, Redis, MongoDB, Cassandra, ClickHouse, Elasticsearch  

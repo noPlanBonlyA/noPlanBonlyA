@@ -1,6 +1,6 @@
 # Hi, I'm Andrey
 
-Full-stack software engineer  
+Middle Full-stack software engineer  
 CS student at ITMO University  
 Technical specialist in digital advertising
 
@@ -38,34 +38,34 @@ Work at the intersection of engineering and product, focusing on execution and d
 ## Tech stack
 
 **Backend & Frameworks:**  
-NestJS, Node.js, Spring (Java), Spring Boot, Django, FastAPI, Flask, Express.js, Laravel, Symfony, ASP.NET Core  
+NestJS, Node.js, Spring (Java), Spring Boot, FastAPI  
 
 **Frontend:**  
-React, Next.js, Vue.js, Nuxt.js, Angular, Svelte, HTML, CSS, Tailwind CSS, Sass, SCSS  
+React, Next.js, Vue.js, Nuxt.js, Angular,  HTML, CSS, Sass, SCSS  
 
 **Mobile:**  
-React Native, Flutter, SwiftUI, Kotlin Multiplatform, Android SDK, iOS SDK  
+React Native, SwiftUI, Kotlin Multiplatform, Android SDK, iOS SDK  
 
 **Languages:**  
-TypeScript, JavaScript, Python, Java, Kotlin, C, C++, C#, Go, Rust, PHP, Ruby, Swift, Objective-C, Scala, Haskell, MATLAB, Bash, PowerShell, Groovy, Solidity  
+TypeScript, JavaScript, Python, Java, Kotlin, C, C++, C#, Go, PHP, Swift, Haskell, MATLAB, Bash, PowerShell
 
 **Databases:**  
-PostgreSQL, MySQL, MariaDB, SQLite, Redis, MongoDB, Cassandra, ClickHouse, Elasticsearch  
+PostgreSQL, MySQL, SQLite
 
 **DevOps & Cloud:**  
-Docker, Docker Compose, Kubernetes, Nginx, Traefik, Terraform, Ansible, GitHub Actions, GitLab CI, Jenkins  
+Docker, Docker Compose, Kubernetes, Nginx, GitHub Actions, GitLab CI
 
 **Messaging & Streaming:**  
-RabbitMQ, Kafka, NATS, Redis Streams  
+RabbitMQ, Kafka, Redis Streams  
 
 **APIs & Protocols:**  
 REST, GraphQL, gRPC, WebSockets, OAuth2, OpenID Connect  
 
 **Testing & Quality:**  
-Jest, Mocha, Vitest, PyTest, JUnit, Testcontainers, Cypress, Playwright  
+Jest, Vitest, PyTest, JUnit, Playwright  
 
 **Other:**  
-Linux, Git, Make, CMake, OpenAPI (Swagger), Prometheus, Grafana, Sentry
+Linux, Git, Make, CMake, OpenAPI (Swagger), Prometheus, Grafana
 
 ---
 
